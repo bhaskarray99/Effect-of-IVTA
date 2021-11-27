@@ -1,4 +1,4 @@
-Statistical  analysis  of  the  efficacy  of  application  ofintravitreous triamcinolone acetonide (IVTA) in silicone oil-filled eyes of patients who haveundergone relaxing retinectomy as treatment of proliferative vitreoretinopathy (PVR) was done.
+Statistical  analysis  of  the  efficacy  of  application  of intravitreous triamcinolone acetonide (IVTA) in silicone oil-filled eyes of patients who have undergone relaxing retinectomy as treatment of proliferative vitreoretinopathy (PVR) was done.
 
 The statistical analysis was carried out using the software R.
 
