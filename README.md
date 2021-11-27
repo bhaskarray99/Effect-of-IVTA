@@ -1,7 +1,7 @@
 Statistical  analysis  of  the  efficacy  of  application  ofintravitreous triamcinolone acetonide (IVTA) in silicone oil-filled eyes of patients who haveundergone relaxing retinectomy as treatment of proliferative vitreoretinopathy (PVR) was done.
 
-The statistical analysis was carried out using the software R, requiring an additional package, "leaps" over the base package. All R codes used for the purpose can be found in the folder "R Codes".
+The statistical analysis was carried out using the software R.
 
-The file, "IVTA_Data.xlsx" contains the entire data used for the study.
+The PDF report titled "Statistical Study on Effect of IVTA on PVR" corresponds to a preliminary analysis based on a small dataset (24 data points) and some prior beliefs that we had based on resources from the internet. We had presented this report as a part of our course on Statistics Comprehensive in the final year of B.Stat (Hons.).
 
-All files will be uploaded shortly.
+On further inputs of information regarding the dataset, some of our assumptions were invalidated and a slightly larger dataset (35 data points) was obtained. The Python notebook, although compiled using R, was created using Google Colab and summarizes our recent analyses and shall be updated as and when new data points are obtained.
